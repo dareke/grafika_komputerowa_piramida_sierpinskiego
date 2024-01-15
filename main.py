@@ -2,7 +2,6 @@ import pygame
 from pygame.locals import *
 from OpenGL.GL import *
 from OpenGL.GLU import *
-from tkinter import *
 
 vertices = [
     [0, 1, 0],
