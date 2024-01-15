@@ -5,4 +5,7 @@ Używa on bibliotek pyOpenGL oraz pygame.
 ## Funkcjonalności
 - Poruszanie kamerą poprzez użycie strzałek oraz myszy, aby aktywować poruszanie myszą przytrzymaj lewy przycisk myszy.
 - Reset kamery po wciśnięciu klawisza 'R'
-- Przybliżenie lub oddalenie poprzez użycie rolki myszki 
+- Przybliżenie lub oddalenie poprzez użycie rolki myszki
+
+### Autor
+Jakub Biadalski 253857
