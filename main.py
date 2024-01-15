@@ -88,7 +88,6 @@ def main():
         sierpinski_pyramid(vertices, levels)
         light()
 
-
         keys = pygame.key.get_pressed()
 
         if keys[K_LEFT]:
@@ -118,5 +117,6 @@ def main():
 
         pygame.display.flip()
         pygame.time.wait(10)
+
 
 main()
