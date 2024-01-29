@@ -1,6 +1,6 @@
 # Sierpinski pyramid
-## Opis
-Program creates sierpinski pyramid with chosen amount of levels. (More than 7-8 might be really slow)
+## Description
+Program creates sierpinski pyramid with chosen amount of levels. (More than 7-8 might make program work really slow)
 It is using pyOpenGL and pygame libraries.
 ## Features
 - Before opening a window with a pyramid simulation, put in amount of levels into console.
@@ -22,4 +22,4 @@ Używa on bibliotek pyOpenGL oraz pygame.
 - Przybliżenie lub oddalenie poprzez użycie rolki myszki
 - Escape - wyjście z programu
 ### Autor
-Jakub Biadalski 253857
+Jakub Biadalski 2023
